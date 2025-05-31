@@ -1,0 +1,28 @@
+{
+  "name": "edgenos-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WINGFO-HQ/EdgenOS-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WINGFO-HQ/EdgenOS-BOT/issues"
+  },
+  "homepage": "https://github.com/WINGFO-HQ/EdgenOS-BOT#readme",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "cli-table3": "^0.6.5",
+    "nodemon": "^3.1.10",
+    "ws": "^8.18.2"
+  }
+}
